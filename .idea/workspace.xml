@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eabefa32-0187-4e65-9905-a8eba20c6b39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-21-Massivlar-PsevdoMassivlar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-21-Massivlar-PsevdoMassivlar/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-23-SPREAD-operatori/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-23-SPREAD-operatori/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-24-dars. OOP asoslari, prototipga yo’naltirilgan meros/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-24-dars. OOP asoslari, prototipga yo’naltirilgan meros/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-24-dars. OOP asoslari, prototipga yo’naltirilgan meros/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-25-dars. Amaliyot. Uyga vazifa. OOP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-25-dars. Amaliyot. Uyga vazifa. OOP/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-26-dars. Dynamic typing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-26-dars. Dynamic typing/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-27-dars. DOM bilan ishlash/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-27-dars. DOM bilan ishlash/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-27-dars. DOM bilan ishlash/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-28-dars. Metod bilan ishlash. DOM/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-28-dars. Metod bilan ishlash. DOM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-28-dars. Metod bilan ishlash. DOM/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-29-dars. Amaliyot. DOM elemental bilan/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-29-dars. Amaliyot. DOM elemental bilan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-29-dars. Amaliyot. DOM elemental bilan/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-15-HomeWork-Tsikl/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-15-HomeWork-Tsikl/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-22-Clonlash-ES6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-22-Clonlash-ES6/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="2ADLOk2MHEiroj4cgwdQeHlTPU5" />
   <component name="ProjectViewState">
@@ -34,8 +55,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Diamond\JavaFundamentalsProjects\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
       <recent name="C:\projects\JavaScript\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
       <recent name="C:\Users\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Diamond\JavaFundamentalsProjects\Javascript-works\Javascript-lessons-master\Lessons-Javascript\lesson-27-dars. DOM bilan ishlash\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +73,7 @@
       <updated>1654539178582</updated>
       <workItem from="1654539180426" duration="2510000" />
       <workItem from="1654657401824" duration="738000" />
+      <workItem from="1654694742753" duration="15765000" />
     </task>
     <servers />
   </component>
