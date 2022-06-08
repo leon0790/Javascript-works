@@ -1,16 +1,45 @@
 'use strict'
 
-const arr = [1, 2, 1, 4, 5, 6]
+// const number = {
+//     x: 10,
+//     y: 5
+// }
+//
+// const newNumber = number
+// newNumber.x = 10
+//
+// console.log(number)
+// console.log(newNumber)
+
+
+// objectlarni copy qilish
+function nusxaObj(obj){
+    let objNusxa = {}
+
+    for (let value in obj){
+        objNusxa[value] = obj[value]
+    }
+    return objNusxa
+}
+
+
+const numbers = {
+    x: 10,
+    y: 5,
+    z: {
+        a: 1,
+        b: 2,
+    },
+}
+
+const newNumbers = nusxaObj(numbers)
+
+console.log(numbers)
+console.log(newNumbers)
+
+newNumbers.x = 20
+console.log(numbers)
+console.log(newNumbers)
 
 
 
-arr.forEach(function (item, index, arr) {
-    console.log(`${item}: ${index}: ${arr}`)
-})
-
-const movies = prompt("What is your favorite movies", "")
-const userMoviesArr = movies.split(", ")
-console.log(userMoviesArr.join("- "))
-
-arr.sort((a, b) => (a -b))
-console.log(arr)
