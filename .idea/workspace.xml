@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eabefa32-0187-4e65-9905-a8eba20c6b39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-20-Obyektlar-destruptizatsiya/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-20-Obyektlar-destruptizatsiya/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Javascript-works.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-21-Massivlar-PsevdoMassivlar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-21-Massivlar-PsevdoMassivlar/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\JavaScript\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
       <recent name="C:\Users\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
     </key>
   </component>
@@ -51,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654539178582</updated>
       <workItem from="1654539180426" duration="2510000" />
+      <workItem from="1654657401824" duration="738000" />
     </task>
     <servers />
   </component>
@@ -67,5 +64,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
