@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eabefa32-0187-4e65-9905-a8eba20c6b39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-30-dars. Xodisalar bilan ishlash/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-30-dars. Xodisalar bilan ishlash/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-30-dars. Xodisalar bilan ishlash/js/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-31-dars. Navigatsiya DOM bo’yicha/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-31-dars. Navigatsiya DOM bo’yicha/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-31-dars. Navigatsiya DOM bo’yicha/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/icons/Logotype.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/icons/Star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/icons/trash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/content_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/content_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/img/media.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-32-dars. Amaliyot. Uyga vazifa. DOM xodisalar/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-33-dars. Defer. Async. Dynamic script/js/first.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-33-dars. Defer. Async. Dynamic script/js/second.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-33-dars. Defer. Async. Dynamic script/js/third.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-1-JavascriptAsoslari/lesson-34-dars. Developer tools. Xatolarni kuzatish/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-1-JavascriptAsoslari/lesson-34-dars. Developer tools. Xatolarni kuzatish/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript-lessons-master/Lessons-1-JavascriptAsoslari/lesson-34-dars. Developer tools. Xatolarni kuzatish/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript-lessons-master/Lessons-Javascript/lesson-33-dars. Defer. Async. Dynamic script/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript-lessons-master/Lessons-1-JavascriptAsoslari" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -58,11 +38,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\JavaScript\Javascript-lessons-master\Lessons-1-JavascriptAsoslari" />
       <recent name="C:\projects\JavaScript\Javascript-lessons-master\Lessons-Javascript\lesson-33-dars. Defer. Async. Dynamic script\js" />
       <recent name="C:\projects\JavaScript\Javascript-lessons-master\Lessons-Javascript" />
       <recent name="C:\projects\JavaScript\Javascript-lessons-master" />
       <recent name="C:\projects\JavaScript\Javascript-lessons-master\Lessons-Javascript\lesson-31-dars. Navigatsiya DOM bo’yicha" />
-      <recent name="D:\Diamond\JavaFundamentalsProjects\Javascript-works\Javascript-lessons-master\Lessons-Javascript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Diamond\JavaFundamentalsProjects\Javascript-works\Javascript-lessons-master\Lessons-Javascript\lesson-27-dars. DOM bilan ishlash\js" />
@@ -83,7 +63,7 @@
       <workItem from="1654755096874" duration="6925000" />
       <workItem from="1654833548852" duration="967000" />
       <workItem from="1654920457621" duration="414000" />
-      <workItem from="1654969298204" duration="14392000" />
+      <workItem from="1654969298204" duration="15412000" />
     </task>
     <servers />
   </component>
